@@ -1,0 +1,15 @@
+#Cadastrar uma instalação
+{
+  "cliente": {
+    "cpf": "123"
+  },
+  "codigo": "INT-NOVO",
+  "dataInstalacao": "2020-07-18T18:09:34.598Z",
+  "enderecoInstalacao": {
+    "bairro": "Ouro Preto",
+    "cidade": "Belo Horizonte",
+    "logradouro": "Rua Paula Mota",
+    "numero": 10,
+    "uf": "MG"
+  }
+}

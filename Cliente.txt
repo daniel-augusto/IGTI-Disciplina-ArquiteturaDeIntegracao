@@ -1,0 +1,33 @@
+#Cadastrar um novo cliente
+{
+  "nome": "Nome do Aluno A",
+  "cpf": "999",
+  "dataNascimento": "2020-07-18T15:07:36.054Z",
+  "endereco": {
+    "bairro": "Jardim Paqueta",
+    "cidade": "Belo Horizonte",
+    "logradouro": "Rua Susana Maria",
+    "numero": 1212,
+    "uf": "MG"
+  },
+  "enderecoCobranca": {
+    "bairro": "Jardim Paqueta",
+    "cidade": "Belo Horizonte",
+    "logradouro": "Rua Susana Maria",
+    "numero": 1212,
+    "uf": "MG"
+  },
+  "listaInstalacao": [
+    {
+      "codigo": "999",
+      "dataInstalacao": "2020-07-18T15:07:36.054Z",
+      "enderecoInstalacao": {
+        "bairro": "Jardim Paqueta",
+        "cidade": "Belo Horizonte",
+        "logradouro": "Rua Susana Maria",
+        "numero": 1212,
+        "uf": "MG"
+      }
+    }
+  ]
+}

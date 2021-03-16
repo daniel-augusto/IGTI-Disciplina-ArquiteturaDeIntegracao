@@ -1,0 +1,12 @@
+#Gerar uma fatura
+
+{
+  "codigo": "FAT-NOVO",
+  "dataLeitura": "2020-07-18T18:20:11.662Z",
+  "dataVencimento": "2020-07-18T18:20:11.662Z",
+  "instalacao": {
+    "codigo": "INST-001"
+  },
+  "numeroLeitura": 999999,
+  "valorConta": 350
+}
